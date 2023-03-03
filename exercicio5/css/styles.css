@@ -93,7 +93,15 @@ h3{
 .btn:hover { /*altera o comportamento do botão quando o cursor do mouse estiver sobre ele*/
     background-color: #0f642f; /*altera a cor de fundo do botão*/
     text-align: center; /*centraliza o texto do rodapé*/
-    pedding: 80px; /*adiciona um espaçamento ao redor do rodapé*/
+    /*adiciona um espaçamento ao redor do rodapé*/
     color: aliceblue; /* Muda cor do texto*/
 
 }
+
+footer{
+    background-color: #3db36b;
+    text-align: center;
+    padding 80px;
+    color: aliceblue
+}
+  
